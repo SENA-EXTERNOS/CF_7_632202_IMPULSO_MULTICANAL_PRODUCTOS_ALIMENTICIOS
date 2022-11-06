@@ -2,18 +2,180 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    width: 320px
+    top: 30%
+    right: 0%
+    z-index: -1    
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    width: 300px
+    top: 40%
+    right: 10%
+    z-index: -1    
 
 
 @keyframes float1
-  0%
-    transform: translateY(20px)
+	0% 
+    transform: scale(1.1)
+ 
+	100% 
+    transform: scale(1.4)
 
+@keyframes float2
+	0% 
+		transform: translateX(-20px) rotate(5deg)
+ 
+	100% 
+		transform: translateX(50px)     
+
+@keyframes float3
+  0%
+    transform: scale(1.0)   
   100%
-    transform: translateY(0px)
+    transform: scale(1.1)  
+.banner-principal__img
+  width: 300px !important       
+  
+.banner-principal__img
+  z-index: 1    
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/3.png") !important
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto      
+
+.cajon.color-primario
+  background-color: #FFE9C9
+
+.tarjeta.color-acento-botones
+  border: 2px solid #26C7DB
+  background-color: #DEF7FA
+.img-infografica__card
+  z-index: -1
+
+.img-infografica__card--selected
+  z-index: 1  
+
+.acordion
+  .tarjeta.bg6
+    background-color: white
+    border-bottom: 1px solid #f6f6f6
+
+.tarjeta.bg6.acordion__activo
+  background-color: #DEF7FA !important 
+
+.acordion__accion__btn--b 
+  background-color: #FED935 !important 
+  border: 1px solid #FED935 
+
+.tarjeta--azul
+  background-color: #FEF1DE              
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  @media (max-width: 810px)
+    width: 35px
+    height: 35px
+  @media (max-width: $bp-max-sm )
+    width: 25px
+    height: 25px  
+.slyder-a__bullets__item    
+  @media (max-width: 810px)
+    width: 10px
+    height: 10px  
+    margin: 0 3px   
+  @media (max-width: $bp-max-sm)
+    width: 10px
+    height: 10px  
+    margin: 0 3px        
+
+.slyder-a
+  &__tipo-a
+    .slyder-a
+      &__bullets
+        position: absolute
+        bottom: 20px !important
+        left: 50%
+        transform: translateX(-50%)            
+
+.slyder-a__bullets__item--active
+  background-color: #26C7DB !important
+  border: 1px solid #26C7DB
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #26C7DB
+.slyder-a__bullets__item
+  background-color: #B2E2DC
+  border: 1px solid #B2E2DC  
+
+.tabs-b__tab
+  filter: opacity(70%)    
+
+.tabs-b.color-acento-contenido .tabs-b__tab--active
+  filter: grayscale(0) !important  
+
+.tarjeta .color-acento-contenido--borde 
+  background-color: #FEF1DE
+.tabs-a__tab 
+  background-color: #FED935
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 12rem
+  & > *
+    position: relative
+  h5 
+    color: $color-sistema-texto
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #FEF7F3
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--first
+  &::before 
+    background-color: #FEF7F3 !important
+.crd--last
+  &::before 
+    background-color: #FEF5EE !important   
+.crd--med1
+  &::before 
+    background-color: #FFFCF0 !important 
+.crd--med2
+  &::before 
+    background-color: #FFFDF5 !important          
+
+.crd--first
+  &::before 
+    border-top-left-radius: 30px
+.crd--last
+  &::before 
+    border-bottom-left-radius: 30px
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -6rem
+  width: 300px
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none     
+
+.tarjeta-slide.color-primario .tarjeta-slide__img
+  background-color: white
+
+.tarjeta.color-primario
+  background-color: #FCD1B1   
