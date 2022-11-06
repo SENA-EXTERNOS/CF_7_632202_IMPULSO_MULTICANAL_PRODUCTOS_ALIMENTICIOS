@@ -71,19 +71,19 @@
       .col-lg-7(data-aos="fade-left")
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg6")
           .row.justify-content-center.align-items-center(titulo="Fisiológicas o básicas")
-            .col-11
+            .col-12
               p Hace referencia a la financiación que recibe la empresa, que puede ser de los socios o de fuentes externas. Se incluyen aquí todas las instalaciones, equipos, herramientas y clientes que son fundamentales para su funcionamiento.
           .row.justify-content-center.align-items-center(titulo="Seguridad")
-            .col-11
+            .col-12
               p En las empresas hay varios ámbitos que requieren seguridad: las instalaciones y bienes materiales (incluye las normas y manuales para la manipulación de maquinaria, cumplimiento de estándares y protocolos para evitar accidentes, robos, pérdidas, y el amparo de pólizas que cubran posibles eventualidades); seguridad financiera, esto es buen manejo de créditos y recopilación de cartera para mantener un respaldo económico y seguridad humana, enfocada en proteger y garantizar el bienestar de los trabajadores de la organización (Escudero, 2017, p. 197).
           .row.justify-content-center.align-items-center(titulo="Sociales")
-            .col-11
+            .col-12
               p Para las empresas son las necesidades de asociación o establecimiento de gremios con otras compañías, en diferentes sectores del mercado, con el fin de impulsar y hacer crecer su sector.
           .row.justify-content-center.align-items-center(titulo="Reconocimiento")
-            .col-11
+            .col-12
               p Se alcanza cuando se obtienen los objetivos o metas trazadas desde el punto de vista estratégico, por ejemplo, productos de calidad, reconocimiento de la marca, posicionarse en el mercado, lograr la expansión o abrir nuevas sucursales.
           .row.justify-content-center.align-items-center(titulo="Autorrealización")
-            .col-11
+            .col-12
               p Alcanzar el punto más alto, establecerse como un punto de referencia global, buscando mantenerse y crecer cada vez más.
 
     p(data-aos="fade-down").mb-5 En la Figura 2 se ilustran las necesidades de una compañía; los consumidores son la base y las siguientes escalas son la seguridad, la estabilidad, directivos eficientes, posicionamiento y liderazgo. 

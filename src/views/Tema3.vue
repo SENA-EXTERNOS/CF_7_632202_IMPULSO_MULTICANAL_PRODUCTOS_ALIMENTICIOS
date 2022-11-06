@@ -68,25 +68,25 @@
     p(data-aos="fade-down").mb-5.text-center A continuación se muestran distintos tipos de temperamentos y sus principales características:  
     TabsA.color-acento-contenido.mb-5
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Melancólico") 
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-start
           .col-lg-8
             p Agrupa personas soñadoras, analíticas e introvertidas, con una gran sensibilidad. Son muy perfeccionistas y se les dificulta enfrentar grandes cambios. Son confiables y no acostumbran abandonar lo que emprenden. En el momento de la venta con este tipo de clientes es recomendable entregarles cifras, valores exactos que puedan procesar, mostrarles el beneficio monetario, las proyecciones futuras y todo aquello que le ayude a decidirse por la compra. 
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/50.png', alt='') 
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Colérico") 
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-start
           .col-lg-8
             p Son personas muy rápidas, ágiles, activas, extrovertidas, decididas, y sobre todo, dominantes. Les gusta que se hagan las cosas como ellos lo indican y por eso suelen tener ideas y opiniones firmes; sin embargo, no temen los cambios, son ambiciosas, y así mismo se trazan metas altas, por esta razón son voluntariosas, autosuficientes e independientes. Durante el proceso de venta se le debe dejar expresarse, y aprovechar sus impulsos y su manera rápida de ver la vida para concretar el negocio, ya que este tipo de cliente es activo y difícilmente se comporta dócil. 
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/51.png', alt='')  
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Flemático") 
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-start
           .col-lg-8
             p Son personas tranquilas, lentas, serias, introvertidas y analíticas. Difícilmente pierden la compostura, rara vez se exaltan. Sin embargo, les cuesta enfrentar cambios, se inclinan por la reflexión excesiva, y la consulta con colegas o familiares para la toma de decisiones. Por lo general consultan todo tipo de cosas sobre el producto y van acompañados de familiares o amigos. Para la venta se debe proceder de forma muy amigable, porque son personas muy fraternas que permiten la conversación. Establecer un clima de confianza con ellos y con sus acompañantes ayuda a que tomen la decisión.  
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/52.png', alt='')  
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Sanguíneo") 
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-start
           .col-lg-8
             p Son personas extrovertidas, vivaces, activas, disfrutan la vida; son sumamente alegres, receptivas y muy flexibles a los cambios. Les gusta hablar demasiado y les cuesta concentrarse, por lo que para lograr la venta se deben hacer preguntas muy concretas e ir encaminando el diálogo a lo realmente importante, de lo contrario solo se quedará en una charla y no será posible concretar nada. Ayuda mucho encontrar puntos en común con este tipo de clientes, por ejemplo, una canción o un pasatiempo, para lograr el enganche y hacer la venta, convirtiendo el impulso en una compra. 
           .col-lg-4

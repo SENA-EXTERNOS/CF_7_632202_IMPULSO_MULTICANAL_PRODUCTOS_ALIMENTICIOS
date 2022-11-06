@@ -83,19 +83,19 @@
 
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Recopilar información" :icono="require('@/assets/curso/temas/24.svg')")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start
           .col-md-7.mb-4.mb-md-0
             p El vendedor trata de definir, detectar, reunir o confirmar las necesidades, motivaciones o móviles de compra del cliente. Cuanta más información logre recopilar, más fácil será decidir acerca de los productos que puede ofrecerle y los argumentos de venta que podrá utilizar. Es importante hacer coincidir todas las características y los beneficios del producto con las necesidades y motivaciones expresadas por el cliente, y tener alternativas y argumentos para ofrecerle si lo que le mostró primero no lo convence. En esto es clave un arduo trabajo de investigación.         
           .col-md-4 
             img.img-a.img-t(src='@/assets/curso/temas/20.png', alt='') 
       .py-4.py-md-5(titulo="Estar atento a las señales" :icono="require('@/assets/curso/temas/25.svg')")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start
           .col-md-7.mb-4.mb-md-0
             p En esta fase se emiten señales y mensajes no verbales, que se deben recopilar e interpretar puesto que comunican muchas cosas. Es de suma importancia aprender a identificarlos. Indagar es un proceso riguroso que exige saber hacer las preguntas pertinentes, de manera adecuada, para conseguir información del cliente, tanto de aquellos tímidos o silenciosos, como de quienes hablan demasiado y se dispersan con facilidad, por lo que es necesario centrarlos nuevamente en el tema de interés.         
           .col-md-4 
-            img.img-a.img-t(src='@/assets/curso/temas/20.png', alt='') 
+            img.img-a.img-t(src='@/assets/curso/temas/21.png', alt='') 
       .py-4.py-md-5(titulo="Formular preguntas" :icono="require('@/assets/curso/temas/26.svg')")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start
           .col-md-7.mb-4.mb-md-0
             p Las preguntas son una herramienta útil y poderosa para obtener información acerca de las necesidades y deseos del cliente, además, propician un clima de confianza mutua. El silencio, por su parte, también es considerado herramienta de comunicación, puesto que demuestra atención total a quien está hablando, evita crear barreras y genera una ligera presión sobre el cliente para que continúe expresándose.
 
@@ -120,13 +120,13 @@
                 i.fas.fa-check
                 p.mb-0 Alternativas: permiten dos posibilidades, siempre positivas. Son muy útiles al cierre de la venta. Por ejemplo: “¿Prefiere que le haga el envío al trabajo o a su casa?”.                      
           .col-md-4 
-            img.img-a.img-t(src='@/assets/curso/temas/20.png', alt='') 
+            img.img-a.img-t(src='@/assets/curso/temas/22.png', alt='') 
       .py-4.py-md-5(titulo="Preguntas abiertas" :icono="require('@/assets/curso/temas/27.svg')")
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-start
           .col-md-7.mb-4.mb-md-0
             p Las preguntas abiertas se suelen emplear al iniciar la gestión de venta, porque ayudan a recopilar una amplia cantidad de información, sobre todo de clientes que no se limitan al momento de hablar. En este caso es recomendable dejar expresar al cliente e irlo guiando para evitar que se desvíe. Por otro lado, las preguntas cerradas se utilizan con personas que no brindan demasiada información útil o les cuesta expresarse.         
           .col-md-4 
-            img.img-a.img-t(src='@/assets/curso/temas/20.png', alt='')                                     
+            img.img-a.img-t(src='@/assets/curso/temas/23.png', alt='')                                     
     h5(data-aos="fade-down").mb-5 Fase 3: Argumentación
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-4
@@ -155,22 +155,22 @@
       .col-lg-7(data-aos="fade-left")
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg6")
           .row.justify-content-center.align-items-center(titulo="Evasivas")
-            .col-11
+            .col-12
               p Este tipo de objeciones buscan huir de la responsabilidad o desviarla, por ejemplo: “No lo decido yo” o “tengo que consultarlo con mi pareja”.    
           .row.justify-content-center.align-items-center(titulo="Excusas")
-            .col-11
+            .col-12
               p También llamados pretextos, buscan ocultar las verdaderas objeciones y suelen ser síntomas de una contundente falta de interés, por ejemplo: “Está muy caro” o “no lo necesito”. Se debe tratar de esclarecer si esos son los verdaderos motivos o si hay otros y ofrecer alternativas que puedan estar disponibles, como planes de financiación. 
           .row.justify-content-center.align-items-center(titulo="Prejuicios")
-            .col-11
+            .col-12
               p Son ideas preconcebidas que el cliente tiene hacia el producto, motivadas en muchas ocasiones por experiencias negativas o por comentarios de otros consumidores. En la mayoría de los casos este tipo de objeciones no se expresan, por lo que es sumamente difícil tratarlas. Aquí es donde el vendedor debe estar muy atento y hacer preguntas abiertas que permitan conocer más acerca de esta negativa para descubrir las razones que originan el prejuicio.  
           .row.justify-content-center.align-items-center(titulo="Dudas")
-            .col-11
+            .col-12
               p En este tipo de objeción se muestra a un cliente escéptico, es decir, duda de que el bien o servicio le vaya a proporcionar todos los beneficios que el vendedor le asegura, cuando realmente es lo que él desea. Por lo general, este tipo de objeción es fácil de refutar, ya que solo bastará con probar al cliente que todo lo que se menciona es verdad, apoyándose en una prueba o demostración. 
           .row.justify-content-center.align-items-center(titulo="Malentendido")
-            .col-11
+            .col-12
               p Estas objeciones surgen por una información incompleta o porque el comprador cree que el producto (bien o servicio) tiene una desventaja, que en realidad no existe. En ocasiones el cliente expresa objeciones cuando lo que quiere es hacer preguntas que permitan aclarar información; si el vendedor es lo suficientemente hábil y procura encontrar cuál es la información que aún no está clara para el comprador, este tipo de objeciones serán fáciles de manejar. 
           .row.justify-content-center.align-items-center(titulo="Desventaja")
-            .col-11
+            .col-12
               p Cuando el cliente expresa desventajas del producto, puede que este no le brinde los beneficios que él busca o hay algo que no le agrada, en muchas ocasiones puede ser el precio, las dimensiones, o algún efecto secundario que pueda tener. La forma de atacar este tipo de objeciones es escuchar lo que expresa sin interrumpirlo, para conocer muy bien su objeción y contrarrestarla con los beneficios del producto (Muñiz, 2014, p. 320).
 
     p(data-aos="fade-down").mb-5 Siempre se debe ir más allá de las objeciones. El manejo de estas o rebatir cualquier clase de negatividad de los clientes es el abecé de las ventas. Si no se conocen los métodos para ello, entonces nos encontramos ante la necesidad urgente de capacitar a los vendedores o impulsadores (BAE Negocios, 2022, p. 1).
@@ -214,25 +214,25 @@
 
     TabsA.color-acento-contenido.mb-5
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Capacitación") 
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-start
           .col-lg-8
             p Hace referencia a la preparación que tiene el equipo de ventas acerca de los productos, así como las técnicas utilizadas para conseguir la venta con los clientes.  
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/33.png', alt='')   
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Conocimiento de procesos") 
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-start
           .col-lg-8
             p Conocer al detalle los pasos que se deben seguir con cada cliente, según la fase del proceso en la que el vendedor se encuentre con cada uno. De esta manera hay seguridad de que, sin importar el punto de venta o sucursal que el cliente visite, podrá acceder a la misma información y con la mejor atención.   
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/34.png', alt='') 
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Servicio al cliente") 
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-start
           .col-lg-8
             p La manera y el trato que se le brinden a los clientes, así como el tiempo que transcurre antes de darles solución a sus inquietudes, influye notablemente en su nivel de satisfacción y permite medir el trabajo del equipo de ventas.  
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/35.png', alt='') 
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Imagen") 
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-start
           .col-lg-8
             p La percepción que tienen los clientes sobre la empresa y su decisión de compra depende en gran medida de la presentación del personal de ventas.  
           .col-lg-4
