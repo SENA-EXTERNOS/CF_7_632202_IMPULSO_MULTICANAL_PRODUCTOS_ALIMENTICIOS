@@ -243,7 +243,6 @@
 
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-9.position-relative
-        h3.mb-4.text-center.txt--purpura Elementos determinantes para el análisis - CAC 
         .avatar
           figure
             img.img-a.img-t(src="@/assets/curso/temas/37.svg", alt="alt").img250
@@ -287,7 +286,7 @@
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/42.png', alt='')    
       .col-lg-7
-        p(data-aos="fade-down") Muchas de las compras son impulsivas, por ello, las estrategias de marketing son indispensables para conseguir aumentar el nivel de ventas e incentivar la compra en los consumidores, aun cuando no necesiten realmente el producto. Recordemos que “un loco por las ventas sabe que lo bueno se dice tres veces” (De Salterain, 2020, p. 28).
+        p(data-aos="fade-down") Muchas de las compras son impulsivas, por ello, las estrategias de <em>marketing</em> son indispensables para conseguir aumentar el nivel de ventas e incentivar la compra en los consumidores, aun cuando no necesiten realmente el producto. Recordemos que “un loco por las ventas sabe que lo bueno se dice tres veces” (De Salterain, 2020, p. 28).
 
     p(data-aos="fade-down").mb-5.text-center Revisemos algunas de las técnicas de venta más efectivas.
 
@@ -319,7 +318,9 @@
         p Entre las técnicas de venta también se encuentra la oferta de productos novedosos y a buen precio. Para esto se utilizan anuncios o elementos publicitarios que destacan la novedad del producto, con lo que se logra crear la necesidad en el cliente y la compra impulsiva, todo esto acompañado de un buen precio de lanzamiento que sea llamativo y sirva de enganche.  
       div(x="16.3%" y="72%" tooltip="Ver mas" numero="+")
         h4.mb-4 La urgencia 
-        p Se suele utilizar en compras por internet al crear la impresión de originalidad al usuario, o que se tiene muy pocas unidades. Todo esto facilitará las compras por impulso entre los clientes, y aumentarán los ingresos de la compañía. Como ejemplo se pueden utilizar frases como: “Solo por hoy”, “tres unidades disponibles” o “última oportunidad”.                                                            
+        p Se suele utilizar en compras por internet al crear la impresión de originalidad al usuario, o que se tiene muy pocas unidades. Todo esto facilitará las compras por impulso entre los clientes, y aumentarán los ingresos de la compañía. Como ejemplo se pueden utilizar frases como: “Solo por hoy”, “tres unidades disponibles” o “última oportunidad”.
+
+    p(data-aos="fade-down").text-center Ahora, se presentan los tipos de clientes y sus características específicas.         
 </template>
 
 <script>

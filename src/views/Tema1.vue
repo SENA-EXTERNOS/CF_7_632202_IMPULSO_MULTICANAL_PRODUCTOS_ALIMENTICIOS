@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="zoom-in-left")
       .titulo-principal__numero
         span 1
-      h1 1.	Necesidades y deseos
+      h1 Necesidades y deseos
       
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8     
@@ -60,7 +60,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/6.svg', alt='')  
       .col-lg-8
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down") 
-          p(data-aos="fade-down").mb-0 Quienes desarrollan labores de marketing o trabajan en áreas asociadas a las ventas, como la comunicación, deben tener claras las categorías asociadas a las necesidades. Por ejemplo, cuando alguien compra un cereal puede buscar simplemente satisfacer su necesidad de alimentarse, sin embargo, elegir una marca o tipo de cereal frente a otros puede expresar un deseo de llevar una vida más sana, y tal vez, obtener algún tipo de reconocimiento social. 
+          p(data-aos="fade-down").mb-0 Quienes desarrollan labores de <em>marketing</em> o trabajan en áreas asociadas a las ventas, como la comunicación, deben tener claras las categorías asociadas a las necesidades. Por ejemplo, cuando alguien compra un cereal puede buscar simplemente satisfacer su necesidad de alimentarse, sin embargo, elegir una marca o tipo de cereal frente a otros puede expresar un deseo de llevar una vida más sana, y tal vez, obtener algún tipo de reconocimiento social. 
 
     p(data-aos="fade-down") Luego de conocer las necesidades de los seres humanos, se describen las de las empresas.
     h4(data-aos="fade-down") Clasificación de las necesidades de las empresas
@@ -75,7 +75,7 @@
               p Hace referencia a la financiación que recibe la empresa, que puede ser de los socios o de fuentes externas. Se incluyen aquí todas las instalaciones, equipos, herramientas y clientes que son fundamentales para su funcionamiento.
           .row.justify-content-center.align-items-center(titulo="Seguridad")
             .col-12
-              p En las empresas hay varios ámbitos que requieren seguridad: las instalaciones y bienes materiales (incluye las normas y manuales para la manipulación de maquinaria, cumplimiento de estándares y protocolos para evitar accidentes, robos, pérdidas, y el amparo de pólizas que cubran posibles eventualidades); seguridad financiera, esto es buen manejo de créditos y recopilación de cartera para mantener un respaldo económico y seguridad humana, enfocada en proteger y garantizar el bienestar de los trabajadores de la organización (Escudero, 2017, p. 197).
+              p En las empresas hay varios ámbitos que requieren seguridad: las <b>instalaciones y bienes materiales</b> (incluye las normas y manuales para la manipulación de maquinaria, cumplimiento de estándares y protocolos para evitar accidentes, robos, pérdidas, y el amparo de pólizas que cubran posibles eventualidades); <b>seguridad financiera</b>, esto es buen manejo de créditos y recopilación de cartera para mantener un respaldo económico y <b>seguridad humana</b>, enfocada en proteger y garantizar el bienestar de los trabajadores de la organización (Escudero, 2017, p. 197).
           .row.justify-content-center.align-items-center(titulo="Sociales")
             .col-12
               p Para las empresas son las necesidades de asociación o establecimiento de gremios con otras compañías, en diferentes sectores del mercado, con el fin de impulsar y hacer crecer su sector.
@@ -113,7 +113,7 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-7 
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down") 
-          p(data-aos="fade-down").mb-0 En el momento de la venta los deseos desempeñan un papel fundamental, por eso la gran tarea del marketing es identificar las necesidades (ya existentes) de los clientes y potenciales consumidores, y canalizarlas de manera que se transformen en deseos hacia los productos que se espera venderles.
+          p(data-aos="fade-down").mb-0 En el momento de la venta los deseos desempeñan un papel fundamental, por eso la gran tarea del <em>marketing</em> es identificar las necesidades (ya existentes) de los clientes y potenciales consumidores, y canalizarlas de manera que se transformen en deseos hacia los productos que se espera venderles.
         p(data-aos="fade-down") La manera como una persona transforma las necesidades en deseos depende de varios factores, no solo del <em>marketing</em>. Entre ellos están aspectos personales, como sus vivencias, educación, creencias, el entorno cultural, social y ambiental, y por supuesto, su capacidad adquisitiva. Se puede tener el deseo de un automóvil último modelo, sin embargo, la edad, la ubicación geográfica y la oferta del producto en la zona pueden imposibilitar su compra.                                         
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/10.png', alt='')
@@ -126,7 +126,7 @@
       .col-lg-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/11.svg', alt='')    
       .col-lg-10
-        p(data-aos="fade-down").mb-0 Visto ya qué es el deseo para el marketing, ahora es necesario conocer cómo este se transforma en demanda. En el siguiente video se explican los aspectos característicos de la demanda. 
+        p(data-aos="fade-down").mb-0 Visto ya qué es el deseo para el <em>marketing</em>, ahora es necesario conocer cómo este se transforma en demanda. En el siguiente video se explican los aspectos característicos de la demanda. 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
         figure
