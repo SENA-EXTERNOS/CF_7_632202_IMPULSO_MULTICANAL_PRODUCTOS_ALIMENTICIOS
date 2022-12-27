@@ -3,9 +3,8 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p(data-aos="fade-down") En el siguiente diagrama encontrará un resumen de conceptos y palabras claves de los temas abordados en este contenido formativo. 
 
-    p(data-aos="fade-down").mb-5 Es necesario recordar que la venta está compuesta por diferentes etapas, y que se deben utilizar las técnicas necesarias para identificar a los clientes y concretar lo más rápido posible el negocio. 
+    p(data-aos="fade-down").mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
 
         .row.justify-content-center
           .col-lg-10.mb-5

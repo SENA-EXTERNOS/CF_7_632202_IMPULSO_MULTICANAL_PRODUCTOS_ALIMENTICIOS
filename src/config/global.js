@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Comercialización de productos alimenticios',
     descripcionCurso:
-      'La comercialización de productos es la base del ingreso de algunas compañías. Tanto las estrategias como las técnicas usadas para potenciar las ventas son fundamentales, porque pueden redundar en mayores ingresos. Los planes de mercadeo impulsan los productos y permiten su reconocimiento por parte de los consumidores.',
+      'La comercialización de productos es la base del ingreso de muchas compañías. Tanto las estrategias como las técnicas usadas para potenciar las ventas son fundamentales porque pueden redundar en mayores ingresos. Los planes de mercadeo impulsan los productos y permiten su reconocimiento, por parte de los consumidores.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -33,28 +33,8 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Necesidades y deseos',
+        titulo: 'Necesidades, deseos y demanda',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: '¿Qué es necesidad?',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: '¿Qué es deseo?',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'La demanda',
-            hash: 't_1_3',
-          },
-        ],
       },
 
       {
@@ -148,33 +128,33 @@ export default {
   },
   complementario: [
     {
-      tema: 'Ventas',
+      tema: 'La venta',
       referencia:
-        'Henao, D. (2019). <i>Plan estratégico de marketing en la empresa de alimentos Torcoroma Ltda</i>. Universidad Pontificia Bolivariana.',
-      tipo: 'Tesis de pregrado',
+        'Henao, D. (2019). <i>Plan estratégico de marketing en la empresa de alimentos Torcoroma Ltda.</i> Universidad Pontificia Bolivariana.',
+      tipo: 'PDF',
       link:
         'https://repository.upb.edu.co/bitstream/handle/20.500.11912/8508/39221.pdf?sequence=1&isAllowed=y',
     },
     {
-      tema: 'Ventas',
+      tema: 'La Ventas',
       referencia:
-        'Acosta, M., Salas, L., Jiménez, M. y Guerra, A. (2018). <i>La administración de ventas</i>. 3Ciencias.',
-      tipo: 'Libro',
+        'Acosta, M., Salas, L., Jiménez, M. y Guerra, A. (2018). <i>La administración de ventas.</i> 3Ciencias.',
+      tipo: 'PDF',
       link:
         'https://www.3ciencias.com/wp-content/uploads/2018/02/La-administracion-de-ventas.pdf',
     },
     {
-      tema: 'Ventas',
+      tema: 'La Ventas',
       referencia:
-        'Servicio Nacional de Aprendizaje [SENA] (19 de octubre de 2021). <i>Técnicas de ventas</i>. Ecosistema de Recursos Educativos Digitales SENA.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). <i>Técnicas de ventas</i> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=zTjvzIucxAk',
     },
     {
-      tema: 'Ventas',
+      tema: 'La Ventas',
       referencia:
-        'Ramos, S. (2017). <i>Técnicas de ventas</i>. Fundación Universitaria del Área Andina.',
-      tipo: 'Libro',
+        'Ramos, S. (2017). <i>Técnicas de ventas.</i> Fundación Universitaria del Área Andina.',
+      tipo: 'PDF',
       link: 'https://core.ac.uk/download/pdf/326425109.pdf ',
     },
   ],
@@ -233,17 +213,17 @@ export default {
   referencias: [
     {
       referencia:
-        'Aguirre, M. (14 de mayo de 2022).<i> Cómo medir la productividad de las ventas</i>. Ámbito Financiero',
+        'Aguirre, M. (2022). <i>Cómo medir la productividad de las ventas.</i> Ámbito Financiero',
       link:
         'https://login.bdigital.sena.edu.co/login?url=https://www.proquest.com/newspapers/cómo-medir-la-productividad-de-las-ventas/docview/2664716829/se-2',
     },
     {
       referencia:
-        'De Salterain, F. (2020). <i>Loco por las ventas</i>, Ediciones Granica.',
+        'De Salterain, F. (2020). <i>Loco por las ventas.</i> Ediciones Granica.',
     },
     {
       referencia:
-        'BAE Negocios (17 de marzo de 2022). <i>El vendedor evoluciona y las capacitaciones de ventas también</i>. BAE Negocios',
+        'BAE Negocios. (). <i>El vendedor evoluciona y las capacitaciones de ventas también.</i> BAE Negocios. ',
       link:
         'https://login.bdigital.sena.edu.co/login?url=https://www.proquest.com/newspapers/el-vendedor-evoluciona-y-las-capacitaciones-de/docview/2640506457/se-2',
     },
@@ -255,7 +235,7 @@ export default {
     },
     {
       referencia:
-        'Muñiz, R. (2014). <i>Marketing en el siglo XXI </i>(5.ª ed.). Centro de Estudios Financieros.',
+        'Muñiz, R. (2014). <i>Marketing en el siglo XXI</i> (5.ª ed.). Centro de Estudios Financieros.',
     },
   ],
   creditos: {

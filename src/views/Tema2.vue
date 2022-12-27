@@ -12,19 +12,19 @@
       .col-lg-7
         p(data-aos="fade-down") La venta es una actividad fundamental para la compañía; es un proceso en el que intervienen diferentes factores y contempla varias etapas: la calidad del producto, su exhibición, las características funcionales y demostrativas que deseen potenciarse, el tipo de negociación que se establece con el cliente, el precio, el medio y forma de pago, entre otros.
 
-        p(data-aos="fade-down") Para ilustrarlo mejor pensemos en dos productos: un automóvil y una hamburguesa. El primero requiere un ambiente formal, con el vendedor y el comprador sentados a la mesa, en calma, con libreta, bolígrafo y quizá un computador para revisar marcas, tipos, colores, precios, planes de financiación, etc. En los puntos de venta de alimentos al detal el proceso es muy rápido, el cliente mira las opciones en un tablero y hace el pedido; no se negocia el precio, el ambiente es informal, el mobiliario sencillo y de material resistente.
+        p(data-aos="fade-down") Para ilustrarlo mejor, podría pensarse en dos productos: un automóvil y una hamburguesa. La venta del primero requiere un ambiente formal, con el vendedor y el comprador sentados a la mesa, en calma, con libreta, bolígrafo y, quizá, un computador para revisar marcas, tipos, colores, precios, planes de financiación, etc. Por otro lado, en los puntos de venta de alimentos al detal el proceso es muy rápido: el cliente mira las opciones en un tablero y hace el pedido, no se negocia el precio, el ambiente es informal, el mobiliario es sencillo y, normalmente, de material resistente.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .tarjeta.color-secundario.p-3.mb-5
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
+            .col-3.col-sm-2.col-lg-2
               img(src="@/assets/curso/temas/13.svg")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1 Tipos de ambiente
-                  p.mb-0 Con ánimo de tener mayor claridad sobre los diferentes ambientes en las ventas, te invitamos a revisar el Anexo 1. 
+                  p.mb-0 Para que tenga mayor claridad sobre los diferentes ambientes en las ventas, revise y estudie con atención el Anexo 1.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_Tipos_de_ambiente.pdf')" target="_blank")
                     span Descargar
@@ -50,7 +50,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/15.svg', alt='') 
         figcaption.mt-3 Referencia: Creación del diseñador instruccional con la información de experto.
 
-    p(data-aos="fade-down") A continuación, se explican cada una de las fases con detalle. 
+    p(data-aos="fade-down") A continuación, se explican cada una de las fases de la venta, en detalle.
 
     h5(data-aos="fade-down") Fase 1: Preparación
 
@@ -61,13 +61,13 @@
         .row.justify-content-center.align-items-start.pt-2
           .col-md-4.mb-4.mb-md-0
             h4.mb-3 Alistamiento
-            p Para una venta exitosa es indispensable preparar todos los elementos que van a intervenir en ella, desde el espacio, la disposición del producto, la forma de exhibirlo, así como conocer al detalle sus características y propiedades, de forma que puedan resolverse todas las dudas e inquietudes del cliente. Dar una información clara y adecuada al interesado sobre el producto contribuye en gran medida a una venta exitosa. Además, el vendedor debe conocer el sector en el cual ocurre la venta y responderse preguntas como ¿quién es mi cliente?, ¿cuáles son sus gustos?, y ¿qué tan frecuentemente nos visita?
+            p Para una venta exitosa es indispensable preparar todos los elementos que van a intervenir en ella: el espacio, la disposición del producto, la forma de exhibirlo, así como conocer al detalle sus características y propiedades, de manera que puedan resolverse todas las dudas e inquietudes del cliente. Dar una información clara y adecuada al interesado sobre el producto contribuye, en gran medida, a una venta exitosa. Además, el vendedor debe conocer el sector en el cual ocurre la venta y responderse preguntas como ¿quién es mi cliente?, ¿cuáles son sus gustos?, ¿qué tan frecuentemente nos visita?
           .col-md-7
             img.img-a.img-t(src='@/assets/curso/temas/16.png', alt='') 
         .row.justify-content-center.align-items-start.pt-2
           .col-md-4.mb-4.mb-md-0
             h4.mb-3 Planteamiento de objetivos y estrategias 
-            p Para lograr la venta, desde el inicio el vendedor debe plantearse el objetivo y desarrollar una estrategia que le permita lograrlo, considerando el discurso que va a utilizar, así como los medios y elementos de los que dispondrá. Preparar una buena entrevista le permitirá al vendedor tener confianza y seguridad, demostrarlo ante el cliente y tener mayores probabilidades de éxito, porque hay clientes que conocen el producto. De acuerdo con Escudero (2017), “los compradores profesionales, estratégicos e industriales son grandes conocedores del producto y la competencia" (p. 205).
+            p Para lograr la venta, el vendedor debe, desde el inicio, plantearse el objetivo y desarrollar una estrategia que le permita lograrlo, considerando el discurso que va a utilizar, así como los medios y elementos de los que dispondrá. Preparar una buena entrevista le permitirá al vendedor tener confianza y seguridad, demostrarlo ante el cliente y tener mayores probabilidades de éxito, porque hay clientes que conocen el producto. De acuerdo con Escudero (2017), “los compradores profesionales, estratégicos e industriales son grandes conocedores del producto y la competencia" (p. 205).
           .col-md-7
             img.img-a.img-t(src='@/assets/curso/temas/17.png', alt='') 
         .row.justify-content-center.align-items-start.pt-2
@@ -79,19 +79,19 @@
 
     h5(data-aos="fade-down") Fase 2: Identificar necesidades
 
-    p(data-aos="fade-down").mb-5 En esta fase de la venta es importante estar atento a todos los elementos que brinden información para identificar las necesidades del cliente y concretar la venta. Se describen cada uno de los aspectos característicos de esta fase. 
+    p(data-aos="fade-down").mb-5 En esta fase de la venta es importante estar atento a todos los elementos que brinden información para identificar las necesidades del cliente y concretar la venta. A continuación, se describen cada uno de los aspectos característicos de esta fase. 
 
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Recopilar información" :icono="require('@/assets/curso/temas/24.svg')")
         .row.justify-content-center.align-items-start
           .col-md-7.mb-4.mb-md-0
-            p El vendedor trata de definir, detectar, reunir o confirmar las necesidades, motivaciones o móviles de compra del cliente. Cuanta más información logre recopilar, más fácil será decidir acerca de los productos que puede ofrecerle y los argumentos de venta que podrá utilizar. Es importante hacer coincidir todas las características y los beneficios del producto con las necesidades y motivaciones expresadas por el cliente, y tener alternativas y argumentos para ofrecerle si lo que le mostró primero no lo convence. En esto es clave un arduo trabajo de investigación.         
+            p Aquí, el vendedor define, detecta, reúne o confirma las necesidades, motivaciones o móviles de compra del cliente. Cuanta más información logre recopilar más fácil será decidir acerca de los productos que puede ofrecerle y los argumentos de venta que podrá utilizar. Es importante hacer coincidir todas las características y los beneficios del producto con las necesidades y motivaciones expresadas por el cliente y tener alternativas y argumentos para ofrecerle, cuando aquello que le mostró primero no lo convence. En esto es clave un arduo trabajo de investigación.
           .col-md-4 
             img.img-a.img-t(src='@/assets/curso/temas/20.png', alt='') 
       .py-4.py-md-5(titulo="Estar atento a las señales" :icono="require('@/assets/curso/temas/25.svg')")
         .row.justify-content-center.align-items-start
           .col-md-7.mb-4.mb-md-0
-            p En esta fase se emiten señales y mensajes no verbales, que se deben recopilar e interpretar puesto que comunican muchas cosas. Es de suma importancia aprender a identificarlos. Indagar es un proceso riguroso que exige saber hacer las preguntas pertinentes, de manera adecuada, para conseguir información del cliente, tanto de aquellos tímidos o silenciosos, como de quienes hablan demasiado y se dispersan con facilidad, por lo que es necesario centrarlos nuevamente en el tema de interés.         
+            p En esta fase se emiten señales y mensajes no verbales, que se deben recopilar e interpretar puesto que comunican muchas cosas. Es de suma importancia aprender a identificarlos. Indagar es un proceso riguroso que exige saber hacer las preguntas pertinentes y de manera adecuada, para conseguir información del cliente, tanto de aquellos tímidos o silenciosos, como de quienes hablan demasiado y se dispersan con facilidad; por tanto, es clave centrarlos nuevamente en el tema de interés.
           .col-md-4 
             img.img-a.img-t(src='@/assets/curso/temas/21.png', alt='') 
       .py-4.py-md-5(titulo="Formular preguntas" :icono="require('@/assets/curso/temas/26.svg')")
@@ -286,7 +286,7 @@
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/42.png', alt='')    
       .col-lg-7
-        p(data-aos="fade-down") Muchas de las compras son impulsivas, por ello, las estrategias de <em>marketing</em> son indispensables para conseguir aumentar el nivel de ventas e incentivar la compra en los consumidores, aun cuando no necesiten realmente el producto. Recordemos que “un loco por las ventas sabe que lo bueno se dice tres veces” (De Salterain, 2020, p. 28).
+        p(data-aos="fade-down") Muchas de las compras son impulsivas, por ello, las estrategias de #[i marketing] o técnicas de venta, son indispensables para conseguir aumentar el nivel de ventas e incentivar la compra en los consumidores, aun cuando no necesiten realmente el producto. Recordemos que “un loco por las ventas sabe que lo bueno se dice tres veces” (De Salterain, 2020, p. 28).
 
     p(data-aos="fade-down").mb-5.text-center Revisemos algunas de las técnicas de venta más efectivas.
 

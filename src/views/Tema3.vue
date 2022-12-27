@@ -15,7 +15,7 @@
         p.mb-0 Conocer el tipo de cliente al que nos enfrentamos es de suma importancia. Saber sus tendencias de compra, su comportamiento y conocer su temperamento ayuda a un acercamiento más fácil. Al abordarlo hay aspectos que pueden influir en el ánimo de compra, por ejemplo, si viene solo o en familia. Esto es fundamental para lograr una venta en el menor tiempo posible, y lo más importante, que se pueda repetir el proceso en días posteriores, aumentando la tasa de recompra.          
           br
           br
-          span A continuación, se describen los diferentes tipos de clientes según su biotipo o temperamento.  
+          span Enseguida, se muestran y describen los diferentes tipos de clientes según su biotipo o temperamento. Tome nota de lo más destacado. 
 
     Separador 
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -25,7 +25,7 @@
       .col-lg-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/45.svg', alt='')    
       .col-lg-10
-        p(data-aos="fade-down").mb-0 Establecer el tipo de cliente que se atiende es de gran ayuda para el vendedor, porque proporciona información al momento de concretar la venta. A continuación se clasifican según el tipo biotipo. 
+        p(data-aos="fade-down").mb-0 Establecer el tipo de cliente que se atiende es de gran ayuda para el vendedor, porque proporciona información al momento de concretar la venta. A continuación, se clasifican según el biotipo.
 
     p(data-aos="fade-down").mb-5.text-center Por el aspecto corporal de los clientes se logran distinguir tres biotipos: 
 
@@ -65,7 +65,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/49.svg', alt='')    
       .col-lg-10
         p(data-aos="fade-down").mb-0 Para seguir conociendo los diferentes tipos de clientes, en este apartado se describe la clasificación según el temperamento, es decir, la manera de ser de cada individuo y la forma como enfrenta una situación en un espacio y circunstancia determinados. En ventas es fundamental conocerlos y saber interactuar con cada uno de ellos. 
-    p(data-aos="fade-down").mb-5.text-center A continuación se muestran distintos tipos de temperamentos y sus principales características:  
+    p(data-aos="fade-down").mb-5.text-center Conozca ahora los distintos tipos de temperamentos y sus principales características.
     TabsA.color-acento-contenido.mb-5
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Melancólico") 
         .row.justify-content-center.align-items-start
@@ -94,9 +94,8 @@
     .row.justify-content-center.align-items-center     
       .col-lg-10   
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down") 
-          p(data-aos="fade-down") Para finalizar con el estudio de este componente formativo, lo invitamos a explorar los demás recursos que se encuentran disponibles en el menú principal y leer la síntesis. Responder la actividad didáctica. Puede profundizar sobre los temas estudiando el material complementario. 
+          p(data-aos="fade-down") Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
-          p(data-aos="fade-down").mb-0 ¡Anímese a continuar con el proceso de aprendizaje!
 </template>
 
 <script>

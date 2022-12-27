@@ -14,10 +14,10 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Bienvenidos a este componente formativo. En él se abordarán conceptos relacionados con la venta de productos alimenticios; las fases o etapas que se desarrollan; las técnicas de venta y las estrategias asociadas a los sentidos, que pueden motivar la compra de los clientes. Asimismo, se verá paso a paso cómo llevar un control de los indicadores. Todo ello contribuye a aumentar las ventas y fidelizar clientes. El aprendiz, mediante ejemplos que se desarrollan en este recurso educativo, tendrá un acercamiento con los conceptos básicos e información teórica y de la realidad asociada a las ventas. 
-          br
-          br
-          span El siguiente video presenta, de forma general, la temática que estudiará a lo largo del componente formativo. ¡Muchos éxitos en este proceso de aprendizaje!
+        p.mb-3 Apreciado aprendiz, bienvenido a este componente formativo, donde se abordarán conceptos relacionados con la venta de productos alimenticios. Las fases o etapas que se desarrollan, las técnicas de venta y las estrategias asociadas a los sentidos que pueden motivar la compra de los clientes. Asimismo, se verá, paso a paso, cómo llevar un control de los indicadores. Todo ello contribuye a aumentar las ventas y fidelizar clientes. El aprendiz, mediante ejemplos que se desarrollan en este recurso educativo, tendrá un acercamiento con los conceptos básicos e información teórica y de la realidad, asociada a las ventas.
+        br
+        br
+        p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
