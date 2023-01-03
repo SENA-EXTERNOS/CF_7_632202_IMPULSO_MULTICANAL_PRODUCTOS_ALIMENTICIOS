@@ -48,7 +48,6 @@
           h5 Figura 3.
           span Fases de la venta
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/15.svg', alt='') 
-        figcaption.mt-3 Referencia: Creación del diseñador instruccional con la información de experto.
 
     p(data-aos="fade-down") A continuación, se explican cada una de las fases de la venta, en detalle.
 
