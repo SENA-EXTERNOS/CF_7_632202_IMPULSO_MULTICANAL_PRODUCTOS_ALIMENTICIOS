@@ -218,7 +218,7 @@
             p Hace referencia a la preparación que tiene el equipo de ventas acerca de los productos, así como las técnicas utilizadas para conseguir la venta con los clientes.  
           .col-lg-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/33.png', alt='')   
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Conocimiento de procesos") 
+      .tarjeta.color-acento-contenido--borde.p-4(titulo="Conocimiento de <br>procesos") 
         .row.justify-content-center.align-items-start
           .col-lg-8
             p Conocer al detalle los pasos que se deben seguir con cada cliente, según la fase del proceso en la que el vendedor se encuentre con cada uno. De esta manera hay seguridad de que, sin importar el punto de venta o sucursal que el cliente visite, podrá acceder a la misma información y con la mejor atención.   
@@ -294,28 +294,28 @@
         figure
           img.img-a.img-t(src='@/assets/curso/temas/43.svg', alt='')
 
-      div(x="13.5%" y="33%" tooltip="Ver mas" numero="+")
+      div(x="9.5%" y="30%" tooltip="Ver mas" numero="+")
         h4.mb-4 Precios inteligentes 
         p Al fijar el precio de un producto, se puede recurrir a precios que terminen en 99, como $7999, por ejemplo, que solo tiene un peso de diferencia con $8000. Esa estrategia hace visualmente más atractivo el precio para el comprador, que lo percibe como un producto más económico, lo que crea el primer enganche. 
-      div(x="35%" y="5%" tooltip="Ver mas" numero="+")
+      div(x="32%" y="5%" tooltip="Ver mas" numero="+")
         h4.mb-4 El equipo de ventas
         p En realidad, todos no tienen las mejores habilidades para las ventas; sin embargo, hay vendedores capaces de crear necesidades, de producir el impulso de compra en los clientes hacia productos que no tenían contemplados. No se debe engañar al comprador, salvo que mediante diferentes estrategias se creará la sensación de necesidad en el cliente, por esto se debe procurar tener dentro del equipo de vendedores personas que no teman interactuar con el público, entusiastas y persuasivas.         
-      div(x="65%" y="11%" tooltip="Ver mas" numero="+")
+      div(x="64%" y="5%" tooltip="Ver mas" numero="+")
         h4.mb-4 Estimulación sensorial 
         p Estimular al cliente suele ser muy efectivo, ya sea a través de sonidos, música, ambiente o aromas. Todo esto, acompañado de una buena disposición visual en el punto de venta, así como de degustaciones o espectáculos en vivo, ayudan a llegar a la mayor cantidad de sentidos posible (oído, olfato, gusto, tacto y vista), consiguiendo un cliente relajado que disfrute la estadía en el punto de venta y toda la experiencia de compra.  
-      div(x="87%" y="38%" tooltip="Ver mas" numero="+")
+      div(x="87%" y="32%" tooltip="Ver mas" numero="+")
         h4.mb-4 Anuncios 
         p Sin duda, siempre es una muy buena opción recurrir a anuncios o comerciales para aumentar las ventas, tanto en prensa, radio y televisión como a través de los canales digitales, por ejemplo, en las redes sociales, que cobran cada vez más importancia. Apoyarse en personajes conocidos o famosos es una muy buena opción que permite llegar a un mayor número de personas. Cabe resaltar que este tipo de anuncios están determinados por el presupuesto, pues no puede realizar la misma inversión publicitaria una multinacional que una pequeña empresa.  
       div(x="86.5%" y="70%" tooltip="Ver mas" numero="+")
         h4.mb-4 Imagen de marca 
         p Reforzar la marca y lograr recordación en los clientes servirá al lanzar un nuevo producto, porque será más fácil conseguir que el cliente compre este por impulso, ya sea por fidelidad a la marca, por completar algún tipo de colección, por acceder algún tipo de descuento en otro producto de la misma familia, etc. Por eso es esencial fortalecer la marca desde su creación, ya que esta será la base y marcará la pauta para todo el proceso comercial posterior. 
-      div(x="67%" y="95.5%" tooltip="Ver mas" numero="+")
+      div(x="63%" y="95.5%" tooltip="Ver mas" numero="+")
         h4.mb-4 Humor 
         p Es una muy buena técnica, puesto que crea un ambiente cómodo y ameno al momento de la compra, y se muestra el producto de forma diferente. Para esto se pueden utilizar espectáculos en vivo, o frases llamativas que permitan enganchar al cliente e impulsar la venta.
-      div(x="39%" y="95.5%" tooltip="Ver mas" numero="+")
+      div(x="33%" y="95.5%" tooltip="Ver mas" numero="+")
         h4.mb-4 Costo vs. beneficio 
         p Entre las técnicas de venta también se encuentra la oferta de productos novedosos y a buen precio. Para esto se utilizan anuncios o elementos publicitarios que destacan la novedad del producto, con lo que se logra crear la necesidad en el cliente y la compra impulsiva, todo esto acompañado de un buen precio de lanzamiento que sea llamativo y sirva de enganche.  
-      div(x="16.3%" y="72%" tooltip="Ver mas" numero="+")
+      div(x="10.3%" y="70%" tooltip="Ver mas" numero="+")
         h4.mb-4 La urgencia 
         p Se suele utilizar en compras por internet al crear la impresión de originalidad al usuario, o que se tiene muy pocas unidades. Todo esto facilitará las compras por impulso entre los clientes, y aumentarán los ingresos de la compañía. Como ejemplo se pueden utilizar frases como: “Solo por hoy”, “tres unidades disponibles” o “última oportunidad”.
 
