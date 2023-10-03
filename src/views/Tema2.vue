@@ -193,7 +193,7 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down") 
-          p(data-aos="fade-down").mb-0 Durante el cierre se debe estar con actitud positiva, y saber en qué momento proceder con el cierre, puesto que no se puede extender demasiado el proceso de venta. Para ello es necesario crear espacios de confianza y hacer preguntas de cierre, como ¿se lo envió a la casa o a su oficina?, ¿entonces va a llevar el blanco o el verde?, etc., así como un breve resumen de los beneficios del producto. En caso de no concluir la venta se debe generar un compromiso con fecha, lugar, etc. 
+          p(data-aos="fade-down").mb-0 Durante el cierre se debe estar con actitud positiva, y saber en qué momento proceder con el cierre, puesto que no se puede extender demasiado el proceso de venta. Para ello es necesario crear espacios de confianza y hacer preguntas de cierre, como ¿se lo envío a la casa o a su oficina?, ¿entonces va a llevar el blanco o el verde?, etc., así como un breve resumen de los beneficios del producto. En caso de no concluir la venta se debe generar un compromiso con fecha, lugar, etc. 
       .col-lg-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/31.svg', alt='')
 
@@ -308,7 +308,7 @@
         p Sin duda, siempre es una muy buena opción recurrir a anuncios o comerciales para aumentar las ventas, tanto en prensa, radio y televisión como a través de los canales digitales, por ejemplo, en las redes sociales, que cobran cada vez más importancia. Apoyarse en personajes conocidos o famosos es una muy buena opción que permite llegar a un mayor número de personas. Cabe resaltar que este tipo de anuncios están determinados por el presupuesto, pues no puede realizar la misma inversión publicitaria una multinacional que una pequeña empresa.  
       div(x="86.5%" y="70%" tooltip="Ver mas" numero="+")
         h4.mb-4 Imagen de marca 
-        p Reforzar la marca y lograr recordación en los clientes servirá al lanzar un nuevo producto, porque será más fácil conseguir que el cliente compre este por impulso, ya sea por fidelidad a la marca, por completar algún tipo de colección, por acceder algún tipo de descuento en otro producto de la misma familia, etc. Por eso es esencial fortalecer la marca desde su creación, ya que esta será la base y marcará la pauta para todo el proceso comercial posterior. 
+        p Reforzar la marca y lograr recordación en los clientes servirá al lanzar un nuevo producto, porque será más fácil conseguir que el cliente compre este por impulso, ya sea por fidelidad a la marca, por completar algún tipo de colección, por acceder a algún tipo de descuento en otro producto de la misma familia, etc. Por eso es esencial fortalecer la marca desde su creación, ya que esta será la base y marcará la pauta para todo el proceso comercial posterior. 
       div(x="63%" y="95.5%" tooltip="Ver mas" numero="+")
         h4.mb-4 Humor 
         p Es una muy buena técnica, puesto que crea un ambiente cómodo y ameno al momento de la compra, y se muestra el producto de forma diferente. Para esto se pueden utilizar espectáculos en vivo, o frases llamativas que permitan enganchar al cliente e impulsar la venta.

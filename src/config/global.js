@@ -136,7 +136,7 @@ export default {
         'https://repository.upb.edu.co/bitstream/handle/20.500.11912/8508/39221.pdf?sequence=1&isAllowed=y',
     },
     {
-      tema: 'La Ventas',
+      tema: 'La venta',
       referencia:
         'Acosta, M., Salas, L., Jiménez, M. y Guerra, A. (2018). <i>La administración de ventas.</i> 3Ciencias.',
       tipo: 'PDF',
@@ -144,14 +144,14 @@ export default {
         'https://www.3ciencias.com/wp-content/uploads/2018/02/La-administracion-de-ventas.pdf',
     },
     {
-      tema: 'La Ventas',
+      tema: 'La venta',
       referencia:
         'Ecosistema de Recursos Educativos Digitales SENA. (2021). <i>Técnicas de ventas</i> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=zTjvzIucxAk',
     },
     {
-      tema: 'La Ventas',
+      tema: 'La venta',
       referencia:
         'Ramos, S. (2017). <i>Técnicas de ventas.</i> Fundación Universitaria del Área Andina.',
       tipo: 'PDF',
